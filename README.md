@@ -64,4 +64,6 @@ Deploy alerts for high-risk zones using predictive modeling.
 Build a web-based interactive version using Power BI embedded.
 
 
+See what the dashboard looks like: ![Dashboard Preview](https://github.com/tanvi-patel08/PRODIGY_DS_05/blob/main/snapshot%20of%20task%205.png)
+
 
